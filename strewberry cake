@@ -1,0 +1,101 @@
+
+<style>
+h1 {
+   font-family: Georgia, serif; 
+    border:6px double}
+
+h2 {font-family: Myriad Pro}
+.strawberry-lemon{
+  width:580px;
+  margin:0 auto;
+  padding: 30px;
+  border:1px solid rgb(204,51,51) ;
+  border-top:20px solid;
+ 
+}
+h3{
+  font-family: Myriad Pro;
+  font-style:italic;}
+.cake-s{
+  width:100%;
+}
+#cake{
+  color:rgb(204,51,51);}
+.bo-dy{
+  font-family: Myriad Pro}
+.stro-w{
+  width:150px;
+  height:150px;
+  margin:20px 20px 20px 60px;
+   border:8px ridge red;
+  
+  
+  
+}
+.le-mon{
+  width:150px;
+  height:150px;
+  margin:15px 0px 20px 20px;
+   border:8px ridge red;
+}
+.bule-berry{
+  width:150px;
+  height:150px;
+  margin-left: 160px;
+  border:8px ridge red;
+}
+#dire-ctions{ 
+  margin-left: 160px;
+  margin-top:100px;
+  font-variant:small-caps;
+  font-size:40px;
+  }
+.o-l{margin-left: -50px;}</style>
+
+
+<div class="strawberry-lemon">  
+ 
+  <img class="cake-s" src="http://www.traderjoes.com/images/recipes/288MainImage.jpg" alt="cake">
+  <body class="bo-dy">
+    <h1>Strawberry Lemon Dome <span id="cake">Cake</span></h1>
+  <h2>Ingredientsi</h2>
+  <h3>Cake</h3>
+  <ul>
+  <li>1 pound TJ’s Strawberries</li><br>
+  <li>1 half gallon TJ’s French Vanilla Ice Cream, softened</li><br>
+  <li>1 TJ’s Lemon Zinger Cake (or YOUR favorite TJ's Bakery cake)</li><br>
+  <li>1 can TJ’s Whipped Cream</li><br>
+  <li>1 box TJ’s Blueberries</li><br></ul>
+  <h3>Supplies</h3>
+
+  <ol>
+    <li>2-quart Stainless Steel Bowl</li><br>
+    <li>Plastic Wrap</li><br>
+    <img class="stro-w" src="http://www.ambwallpapers.com/wp-content/uploads/2015/03/2013-11-Fresh-Strawberry-Fruit-Wallpaper.jpg">
+    <img class="le-mon" src="https://beautifullynappy.files.wordpress.com/2013/12/lemons.jpg">
+    <img class="bule-berry" src="http://herintalk.com/wp-content/uploads/2015/03/blueberries.jpg">   <br>
+   
+    
+      <h2 id="dire-ctions">
+      Directions </h2>
+    <p>
+<ol class="o-l">
+  <li>Lay a large sheet of plastic wrap inside a 2-quart stainless steel bowl, with the plastic edges overhanging, set aside. </li><br>
+  <li> Rinse strawberries and cut off the tops and tips.</li><br>
+  <li>Slice each strawberry into 3-4 thin circles. </li><br>
+  <li> Arrange strawberry slices in a single layer on the inside of the bowl, starting in the center and working out to the edges. Scoop softened ice cream over the top of the strawberries and smooth out until the surface is flat.</li><br>
+  <li>In a separate bowl, crumble the lemon zinger cake with your fingers. Spread the cake crumbles in a thick layer atop the ice cream and gently press down to secure.</li><br>
+  <li> Cover the bowl with plastic wrap and place in freezer for about 5 hours or until firm.</li><br>
+  <li>To serve, soak the bottom of the bowl in a separate bowl of warm water for a few seconds to help dislodge the cake. Remove the plastic wrap from the top of the bowl, place a serving plate over the cake and flip.</li><br>
+  <li>Remove the bowl and plastic wrap from the outer strawberry layer. </li><br>
+  <li>Garnish with whipped cream, fresh blueberries and mint leaves. Serve immediately.
+
+</li>
+  
+</ol> </p>
+       
+
+  
+</div>
+   
+  </body>
